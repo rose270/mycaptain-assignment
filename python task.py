@@ -1,4 +1,4 @@
-1 TASK 
+task 1
 
 PI=3.14
 radius = float(input('enter the radius of a circle:'))
@@ -6,7 +6,7 @@ area = PI*radius*radius
 print("area of a circle = %.2f" %area)
 
 
-2 TASK
+task 2
 
 filename = input("Input the filename:")
 f_extns = filename.split(".")
